@@ -1,0 +1,22 @@
+{
+  "name": "yandex-practicum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qo/yandex-practicum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qo/yandex-practicum/issues"
+  },
+  "homepage": "https://github.com/qo/yandex-practicum#readme",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
